@@ -1,2 +1,2 @@
 File B
-
+This is a change to the file 
